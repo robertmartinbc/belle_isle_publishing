@@ -1,4 +1,8 @@
 ---
+exbritlogo.png: exbritlogo-2ed4b8d93dadfadb0f8088ee5b39e0a8.png
+exbritlogo/index.png: exbritlogo-2ed4b8d93dadfadb0f8088ee5b39e0a8.png
+london_skyline.jpg: london_skyline-1eb11e99d47a506e2db8dcf1e16104f9.jpg
+london_skyline/index.jpg: london_skyline-1eb11e99d47a506e2db8dcf1e16104f9.jpg
 rails.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 rails/index.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 application.js: application-41200e0069deb9227348de08c0985018.js
