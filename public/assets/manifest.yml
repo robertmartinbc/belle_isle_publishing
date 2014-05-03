@@ -5,6 +5,8 @@ london_skyline.jpg: london_skyline-1eb11e99d47a506e2db8dcf1e16104f9.jpg
 london_skyline/index.jpg: london_skyline-1eb11e99d47a506e2db8dcf1e16104f9.jpg
 main_log.jpeg: main_log-17caac9887df5e383189305d1b9732b5.jpeg
 main_log/index.jpeg: main_log-17caac9887df5e383189305d1b9732b5.jpeg
+main_logo.jpeg: main_logo-17caac9887df5e383189305d1b9732b5.jpeg
+main_logo/index.jpeg: main_logo-17caac9887df5e383189305d1b9732b5.jpeg
 rails.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 rails/index.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 application.js: application-41200e0069deb9227348de08c0985018.js
