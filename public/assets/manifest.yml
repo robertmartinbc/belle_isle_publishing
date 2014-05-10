@@ -1,4 +1,6 @@
 ---
+belle_isle_music_logo.png: belle_isle_music_logo-fd6101e97990db72cad73164866c133c.png
+belle_isle_music_logo/index.png: belle_isle_music_logo-fd6101e97990db72cad73164866c133c.png
 exbritlogo.png: exbritlogo-2ed4b8d93dadfadb0f8088ee5b39e0a8.png
 exbritlogo/index.png: exbritlogo-2ed4b8d93dadfadb0f8088ee5b39e0a8.png
 london_skyline.jpg: london_skyline-1eb11e99d47a506e2db8dcf1e16104f9.jpg
@@ -11,7 +13,7 @@ rails.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 rails/index.png: rails-a3386665c05a2d82f711a4aaa72d247c.png
 application.js: application-41200e0069deb9227348de08c0985018.js
 application/index.js: application-41200e0069deb9227348de08c0985018.js
-application.css: application-1b13569e9620782f423d4cd3ce931750.css
-application/index.css: application-1b13569e9620782f423d4cd3ce931750.css
+application.css: application-2f3309e378dba115c138d92301440244.css
+application/index.css: application-2f3309e378dba115c138d92301440244.css
 jquery.min.map: jquery.min-388372ef65cc311f6a3df4a6ceac8d22.map
 jquery/index.min.map: jquery.min-388372ef65cc311f6a3df4a6ceac8d22.map
